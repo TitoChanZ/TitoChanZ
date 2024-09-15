@@ -12,11 +12,11 @@
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="Tito" height="40px" width="50px" />
   </a>
   <span style="width: 150px;"> </span>
-  <a href="https://instagram.com/0titochan0" target="blank">
+  <a href="https://instagram.com/" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram de Tito" height="40px" width="40px" />
   </a>
   <span style="width: 150px;"> </span>
-  <a href="https://twitter.com/titoChan" target="blank">
+  <a href="https://twitter.com/" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" alt="Twitter de Tito" height="40px" width="40px" />
   </a>
 </p>

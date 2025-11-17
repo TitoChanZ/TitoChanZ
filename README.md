@@ -4,11 +4,11 @@
 </p>
 
 <p align="center">
-   <a href="https://www.twitch.tv/0titochan0" target="blank">
+   <a href="https://www.twitch.tv/" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Twitch_logo_2019.svg" alt="Twitch de Tito" height="65px" width="85px" />
   </a>
   <span style="width: 150px;"> </span>
-   <a href="https://www.youtube.com/channel/UCU0WG0GAtOx1Z4OJqj3Mclg" target="blank">
+   <a href="https://www.youtube.com/" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="Tito" height="40px" width="50px" />
   </a>
   <span style="width: 150px;"> </span>
